@@ -1,0 +1,141 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    margin: 0 200px 0 200px;
+    background-color: black;
+
+}
+main {
+    background-color: rgb(44, 21, 21);
+    color: rgba(255, 255, 255, 0.623);
+    margin: 0;
+    padding: 0;
+}
+
+.spanmain {
+    font-weight: bold;
+    font-size: 1em;
+    font-family: arial sans-serif;
+    color: white;
+}
+main > p {
+    font-size: 1em;
+    font-weight: lighter;
+    font-family: arial sans-serif;
+
+}
+div {
+    padding: 30px;
+}
+
+a {
+    color: rgb(255, 174, 0);
+}
+
+.pmain {
+    margin-bottom: 20px;
+}
+header > img {
+    width: 100%;
+    margin: 0;
+    height: auto;
+}
+
+main > img{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+}
+#imgmain1 {
+    width: 45%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+#imgmain2 {
+    width: 45%;
+    height: auto;
+    margin: 0%;
+    padding: 0;
+    margin-left: 7%;
+}
+
+#textimg {
+    font-size: 1 em;
+    text-align: center;
+    margin: 10px 20px 10px 20px;
+    color: rgba(255, 255, 255, 0.438);
+}
+#textimg2 {
+    font-size: 1.2 em;
+    font-weight: bold;
+    color: white;
+}
+#divdivi {
+    max-width: 100%;
+    margin: 0%;
+}
+#imgfooter1 {
+    width: 100%;
+    margin: 0;
+}
+#imgfooter2 {
+    width: 100%;
+    margin: 30px 0 0 0;
+}
+#textmain3 {
+    margin-top: 50px;
+    text-align: justify;
+    font-size: 1.1em;
+    max-width: 100%;
+}
+
+footer {
+    background-color: #10151B;
+    margin: 0%;
+    padding: 0%;
+}
+
+#imgs {
+    width: 100%;
+    margin: auto;
+    padding: 0;
+}
+footer > span {
+    margin: auto;
+    width: 100%;
+}
+#imgfooter3 {
+    margin-top: 60px;
+    width: 40%;
+    left: 50%;
+    position: relative;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+#navfooter {
+    color: white;
+    text-align: center;
+    font-size: 1em;
+}
+#navfooter > span {
+    margin-left: 10px;
+    font-family: sans-serif;
+}
+#pfooter {
+    margin-top: 25px;
+    font-size: 1em
+}
+
+#imgfooter4 {
+    width: 100%;
+    margin: 0;
+}
+#img12anos {
+    margin: auto;
+    width: 200px;
+    padding-bottom: 10px;
+}
